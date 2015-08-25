@@ -1,0 +1,29 @@
+{
+  "name": "handlebars-custom-delimiters",
+  "main": "index.js",
+  "version": "0.1.1",
+  "homepage": "https://github.com/edahood/handlebars-custom-delimiters",
+  "authors": [
+    "Eliot Dahood <eliot.dahood@gmail.com>"
+  ],
+  "description": "Custom Delimiter setting for handlebars",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "handlebars",
+    "delimiters"
+  ],
+  "dependencies": {
+    "handlebars": "~3.0.3"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
