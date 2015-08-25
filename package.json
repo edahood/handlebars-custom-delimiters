@@ -1,0 +1,38 @@
+{
+  "name": "handlebars-custom-delimiters",
+  "description": "Customized delimiters, for Handlebars templates.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/edahood/handlebars-custom-delimiters",
+  "author": {
+    "name": "Eliot Dahood",
+    "url": "https://github.com/edahood"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edahood/handlebars-custom-delimiters.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edahood/handlebars-custom-delimiters/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec test/*.spec.js"
+  },
+  "devDependencies": {
+    "verb-tag-jscomments": ">= 0.2.0",
+    "verb": ">= 0.2.6",
+    "mocha": "*"
+  },
+  "keywords": [
+    "delimiter",
+    "delimiters",
+    "delims",
+    "handlebars"
+  ],
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  }
+}
