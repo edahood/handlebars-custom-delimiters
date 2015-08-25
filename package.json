@@ -1,7 +1,7 @@
 {
   "name": "handlebars-custom-delimiters",
   "description": "Customized delimiters, for Handlebars templates.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/edahood/handlebars-custom-delimiters",
   "author": {
     "name": "Eliot Dahood",
